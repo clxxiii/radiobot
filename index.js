@@ -34,7 +34,7 @@ async function init() {
 async function connectToVoice() {
 	const player = createAudioPlayer({
 		behaviors: {
-			noSubscriber: NoSubscriberBehavior.Play,
+			noSubscriber: NoSubscriberBehavior.Pause,
 		},
 	});
 
