@@ -1,4 +1,5 @@
 # radiobot
+A discord bot for sitting in a discord channel and playing a radio station 24/7.
 ## Setup Process
 1. Clone the repository
 2. `cd` into the directory, and run `npm install`
